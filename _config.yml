@@ -1,1 +1,36 @@
-theme: jekyll-theme-minimal
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "MUSIC 376 Final Concert"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "MUSIC 376 final concert hhh"
+# source_link: "https://github.com/t413/SinglePaged"
+
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
+
