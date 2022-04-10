@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "MUSIC 376 Final Concert"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "MUSIC 376 final concert hhh"
+description: "MUSIC 376 final concert"
 # source_link: "https://github.com/t413/SinglePaged"
 
 
